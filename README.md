@@ -29,12 +29,12 @@ plausible rebounds
 state changes driven by the relative spatial context of the scene
 Importantly, after initialization, the simulation does not replay pre-recorded future frames. Instead, it generates future behavior by moving through the learned graph.
 
-# Videos
+# Simulation
 The repository includes 3 simulation video examples.
 
 These correspond to models trained on different amounts of data:
 
-69 million frames
+69 million frames:
 
 
 https://github.com/user-attachments/assets/71b5bab4-197f-4699-b280-7770fb58f0d6
