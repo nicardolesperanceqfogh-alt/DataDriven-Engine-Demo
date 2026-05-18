@@ -36,11 +36,12 @@ These correspond to models trained on different amounts of data:
 
 69 million frames:
 
-
 https://github.com/user-attachments/assets/71b5bab4-197f-4699-b280-7770fb58f0d6
 
-
 119 million frames
+
+https://github.com/user-attachments/assets/c179ab18-034a-419d-b420-a83528770b27
+
 169 million frames
 Each example shows a rollout produced after training on the corresponding amount of observed motion data.
 
