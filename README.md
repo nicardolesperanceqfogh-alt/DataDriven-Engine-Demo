@@ -46,6 +46,10 @@ https://github.com/user-attachments/assets/c179ab18-034a-419d-b420-a83528770b27
 
 https://github.com/user-attachments/assets/c438b5d9-5c8e-4d48-89a8-c117f123b517
 
+Billiard simulation:
+
+https://github.com/user-attachments/assets/a7056487-21f1-4b05-81c9-6d7af9c29084
+
 Each example shows a rollout produced after training on the corresponding amount of observed motion data.
 
 # Why This Is Interesting
